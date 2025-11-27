@@ -5,6 +5,9 @@ Welcome to **Guess the Number** — a simple interactive game where you guess a 
 ## 🚀 Project Overview
 This game generates a random number and prompts the user to guess it. The UI provides feedback (higher or lower) and counts attempts.
 
+## 🌐 Live Demo
+[View Demo](https://issamsensi.github.io/guess-the-number/)
+
 ## 🌟 Features
 - Random number generation (1–100)
 - Feedback: 'your number is bigger' or 'your number is smaller'
