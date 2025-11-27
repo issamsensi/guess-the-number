@@ -1,0 +1,23 @@
+body{
+    align-items: center;
+    text-align: center;
+}
+div{
+    padding: 15px;
+}
+button{
+    color: white;
+    background-color: hsl(120, 100%, 25%);
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 0 5px;
+    font-weight: bold;
+}
+button:hover{
+    background-color: hsl(120, 74%, 41%);
+}
+input{
+    height: 25px;
+    border: 1px solid black;
+}
